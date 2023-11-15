@@ -1,0 +1,17 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\LetMeFly\Desktop\Github-Tify\AnotherGit\Codes\ToCopy</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\ToCopy</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>F:\OtherApps\Program\Git\Git_Windows</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Git</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\ToCopy\start.cmd</Command>
+  </LogonCommand>
+</Configuration>
