@@ -16,4 +16,3 @@ Want to use 2 or more github accounts? Try it in Windows sandbox directly! | 想
 4. 将```Codes/ToCopy/.ssh```下的```id_rsa```和```id_rsa.pub```替换为具有Github操作权限的ssh key（[参考链接](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)）
 5. 双击```Codes/main.wsb```（选择“通过沙盒打开”）
 6. 在沙盒中进行地使用Git吧！身份已经切换为了新配置的Github用户，```git```也被添加到了环境变量中
-
